@@ -1,0 +1,117 @@
+.blue-background {
+    background-color: #f3f8f9;
+    height: 500px;
+}
+
+.white-background {
+    width: 1024px;
+    height: 225px;
+    background-color: white;
+    padding: 30px;
+    border: 1px solid #ffffff;
+    border-radius: 10px;
+    overflow: auto;
+    border-spacing: 10px;
+    box-shadow: 3px 1px 1px #a3a3a3;
+    position: absolute;
+    top: 30px;
+    left: 30px;
+}
+
+.profile-pic {
+    margin-right: 20px;
+    float: left
+}
+
+.name-area {
+    float: left;
+}
+
+.jack {
+    display: inline;
+    font-family: Helvetica;
+    padding: 0 5px 0 5px;
+}
+
+button>p {
+    font-family: Helvetica;
+    font-size: 30px;
+    font-weight: bold;
+    color: #3ba8f4;
+    display: inline;
+    padding-left: 5px;
+}
+
+button {
+    background-color: white;
+    padding: 15px 25px 15px 25px;
+    border-style: solid;
+    border-color: #3ba8f4;
+    border-radius: 10px;
+    border-spacing: inherit;
+    float: right;
+    position: absolute;
+    right: 30px;
+    top: 35px;
+}
+
+.text {
+    clear: both;
+}
+
+.at-name {
+    font-family: Helvetica;
+    color: #667882;
+    font-size: 30px;
+    margin-top: 0px;
+}
+
+.tweet, .date-time {
+    font-family: Helvetica;
+    color: black;
+    font-size: 30px;
+    position: relative;
+    right: 90px;
+    margin: 0px;
+}
+
+.date-time {
+    color: #667882;
+    font-size: 25px;
+    margin-top: 15px;
+}
+
+.reply, .retweet {
+    position: relative;
+    right: 90px;
+    margin-top: 25px;
+}
+
+.retweet {
+    margin: 25px 0 0 35px;
+}
+
+.ninetytwo {
+    color: #667882;
+    font-family: Helvetica;
+    font-size: 25px;
+    position: relative;
+    left: 30px;
+    bottom: 53px;
+}
+
+.favorite {
+    position: relative;
+    left: 120px;
+    bottom: 105px;
+}
+
+.seventyone {
+    position: relative;
+    color: #667882;
+    font-family: Helvetica;
+    font-size: 25px;
+    left: 150px;
+    bottom: 160px;
+    margin-left: 3px;
+}
